@@ -18,7 +18,7 @@ const App = () => {
         <p style={styles.subtitle}>
           This website was deployed automatically using <b>GitHub Actions</b> and <b>Docker</b> on an <b>AWS EC2</b> instance.
         </p>
-        <div style={styles.badge}>CI/CD Pipeline Active ✅</div>
+        <div style={styles.badge}>CI/CD Pipeline Active ✅ You did itt!!</div>
       </header>
 
       {/* Features Grid */}
